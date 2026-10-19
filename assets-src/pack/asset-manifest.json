@@ -1,0 +1,335 @@
+{
+  "concept": true,
+  "files": [
+    {
+      "file": "ASSET_INDEX.html",
+      "bytes": 2969,
+      "sha256": "37dfb5f405bddb08eb9f5ddefd92f7add0cc5dc59f0439273f7e76618a49f5b5"
+    },
+    {
+      "file": "CONTACT_SHEET.jpg",
+      "bytes": 251153,
+      "sha256": "fbf005256b4a48bf89de094ff7894ddbd292b4a18549ec47dbcae1c3de4074e0"
+    },
+    {
+      "file": "README_START_HERE.md",
+      "bytes": 1339,
+      "sha256": "38ef2dbe13a1708c6f780405b5dac8c2e5144b2df81063a24d910b4c48139f09"
+    },
+    {
+      "file": "branding/favicon-192.png",
+      "bytes": 2047,
+      "sha256": "b3d036abf378eac1f94f3696baf122e0681707920cc0804efb1c8f90ec54bebd"
+    },
+    {
+      "file": "branding/favicon.svg",
+      "bytes": 272,
+      "sha256": "55d9a1cdd279d4afaf333f8ad3b34a844dee6b69b929b2c4940f969a25f0984f"
+    },
+    {
+      "file": "branding/logo-concept-ivory.svg",
+      "bytes": 3708,
+      "sha256": "7d3f69875a1fe1b520e6a59ffc53facefc2d71d1e11f493cd03351d385148f7f"
+    },
+    {
+      "file": "branding/logo-concept-mono.svg",
+      "bytes": 3708,
+      "sha256": "9d6387f9af6571fef327b52f3c15dd99b5e6853f90875a9a9f874c4b86756f33"
+    },
+    {
+      "file": "branding/logo-concept-teal.svg",
+      "bytes": 3708,
+      "sha256": "ca97a627103541039aac39ff13c4e54be808430e1693575693a715bfb05a2a0e"
+    },
+    {
+      "file": "branding/monogram-concept.svg",
+      "bytes": 270,
+      "sha256": "295f42f051b5cf536c5480e8ddd25abfed3ad033c3930848faaf030aa20151d9"
+    },
+    {
+      "file": "data/brand-tokens.json",
+      "bytes": 755,
+      "sha256": "c73670061bd7b8d8bd40d29dd28e552d2264708f552dda08fe3dfef7fcdbe529"
+    },
+    {
+      "file": "data/demo-catalogue.json",
+      "bytes": 2885,
+      "sha256": "87998afbb21809ee20d1cef7fb188a4864c0cc0f4a1954b1165f8f6853304383"
+    },
+    {
+      "file": "data/demo-commerce.json",
+      "bytes": 442,
+      "sha256": "ea15a75d52f4da80f52e4d81e13a4defdf9d072d3949b95f57b4f0fcd4fba68a"
+    },
+    {
+      "file": "guides/AGENT_HANDOFF.md",
+      "bytes": 3183,
+      "sha256": "d1221361b9c20ede9e980c39a61724d5b96490c6dbbc92858acb0520183a4a62"
+    },
+    {
+      "file": "guides/CONTENT_REGISTER.md",
+      "bytes": 2268,
+      "sha256": "33f9c5f4ee78eebff6fe228b43fc8c54e2e6ec9115ae8a86699af84544135818"
+    },
+    {
+      "file": "guides/GENERATION_PROMPTS.json",
+      "bytes": 12092,
+      "sha256": "18f6536696005499774cdc9561a703c44da761d63c5a26c67aa4b72ca0b3abf9"
+    },
+    {
+      "file": "guides/VISUAL_NOTES.md",
+      "bytes": 1816,
+      "sha256": "b81c2135b1bc0ddb95027c1d2b340543ed05d9f4851497102a96d9a372dad80d"
+    },
+    {
+      "file": "icons/basket.svg",
+      "bytes": 282,
+      "sha256": "79c206a38908cecddd37e7ddfffe5daa9e8b76fa33db846c772a33f21d4df596"
+    },
+    {
+      "file": "icons/branch.svg",
+      "bytes": 313,
+      "sha256": "a56d7a1ad576f39618d5b72f90e2096403ff4be6b7520fb867cfe6b63326e50b"
+    },
+    {
+      "file": "icons/care.svg",
+      "bytes": 292,
+      "sha256": "d258bef31903f436314b7a5033ee8e4b7791b768b3bf4ffb1d1618d3d4ba9fd9"
+    },
+    {
+      "file": "icons/chat.svg",
+      "bytes": 263,
+      "sha256": "d5c2cee84ba47e3662342c6682ade4074536d6bd34e74e8aa34ba2b5929b08b0"
+    },
+    {
+      "file": "icons/check.svg",
+      "bytes": 246,
+      "sha256": "b6b72d5bf0a014c13ba2aa685f9ab153a9413110d193ee1981677bcd43fe6e72"
+    },
+    {
+      "file": "icons/clock.svg",
+      "bytes": 279,
+      "sha256": "de144c180bb809ee4049081f468fe25a78de5fc0f9803e4025c57c48d4156e8d"
+    },
+    {
+      "file": "icons/collection.svg",
+      "bytes": 277,
+      "sha256": "28103292b5ea57d38ba95ef3540a72d7756bc64e7c073f56ee81d73ef2468546"
+    },
+    {
+      "file": "icons/delivery.svg",
+      "bytes": 304,
+      "sha256": "2250a126697cff89b6f35cf76de841587797e700de9aea2bf8b5cc9241b5a196"
+    },
+    {
+      "file": "icons/document.svg",
+      "bytes": 275,
+      "sha256": "b54270c1d6eb4ffdf5ecfdfd4a0eadb378d94f4f671fe2f2872dc23d07670dd0"
+    },
+    {
+      "file": "icons/phone.svg",
+      "bytes": 275,
+      "sha256": "30cb9c8a7c418cca8f831d2bc09407637a09a37d319640eb2d45bbcee15aff30"
+    },
+    {
+      "file": "icons/plus.svg",
+      "bytes": 247,
+      "sha256": "df560493757f89eb2d8a4ca4be16b09fcd237c8c24e8459154510783b4c39882"
+    },
+    {
+      "file": "icons/search.svg",
+      "bytes": 279,
+      "sha256": "01d31d4dee3142afee142c2f94bc3b97057a36fe0a3e996b8cb1f5c677e2d7f1"
+    },
+    {
+      "file": "images/master/category-personal-care.webp",
+      "bytes": 88306,
+      "sha256": "dc25d91e0424df1ca2fb17574ba1d8cba493e7d2fc64619fdb7da805c7c188cb"
+    },
+    {
+      "file": "images/master/collection-counter.webp",
+      "bytes": 99206,
+      "sha256": "150712fd58d7f6e13ebebf25f0a883ea2596abdc949cf43f1c7f99d81b323284"
+    },
+    {
+      "file": "images/master/delivery-handover.webp",
+      "bytes": 176764,
+      "sha256": "7523885447c9e9b6deb2b40d4e84a5cedf3a954b1a0956c6958238af33a0f012"
+    },
+    {
+      "file": "images/master/delivery-hero-desktop.webp",
+      "bytes": 216148,
+      "sha256": "07be8b5a57e81e81980e5aacbe8f012df4c4374385fc52cedf3ccecc8bfd814d"
+    },
+    {
+      "file": "images/master/delivery-hero-mobile.webp",
+      "bytes": 222230,
+      "sha256": "e2c4c7576d0f3ec8261b3fa053ea949bdf7038bd0f3f11be596d6ee88ddbf562"
+    },
+    {
+      "file": "images/master/home-hero-desktop.webp",
+      "bytes": 85460,
+      "sha256": "04747c84973fd11ddad12c03ac1065bb4e92a04e9fd96f1aac57adcdcaf91a24"
+    },
+    {
+      "file": "images/master/home-hero-mobile.webp",
+      "bytes": 76278,
+      "sha256": "646b1f7e91a03fceb1f7fa87d84b5dad9e31b71c9af4051395fb43d9e1759088"
+    },
+    {
+      "file": "images/master/pharmacist-conversation.webp",
+      "bytes": 150354,
+      "sha256": "55bc9ac53681122ba21a3d8cc24464f00007f56b7e69c86b5e3be95044c885e9"
+    },
+    {
+      "file": "images/master/product-first-aid-pouch.webp",
+      "bytes": 206036,
+      "sha256": "fb278f2430e3195cfb20a7ae6f8d9cdce67fa2c281c2caac1169c52f8d3cd0c9"
+    },
+    {
+      "file": "images/master/product-handwash.webp",
+      "bytes": 28514,
+      "sha256": "3d341acb409a8d1fb98ebdd48a6812c868a1e0e3253057e8e2f8099bd36422fd"
+    },
+    {
+      "file": "images/master/product-lotion.webp",
+      "bytes": 11064,
+      "sha256": "2eb2a72ddf23c974ff854658bfa2ef5d8be8e96ee0b3400603031819be669a02"
+    },
+    {
+      "file": "images/master/product-soap.webp",
+      "bytes": 28728,
+      "sha256": "2b4003100be5268c7d4385ed53856c430a4bf345ae1107cecd52ffa00b95bd05"
+    },
+    {
+      "file": "images/master/product-thermometer.webp",
+      "bytes": 32844,
+      "sha256": "40cfc16ecfe183215035aab49d7a668f2410331bf1f14e463b16b19b68e3e86d"
+    },
+    {
+      "file": "images/master/product-tissues.webp",
+      "bytes": 20902,
+      "sha256": "06fceb35838de61ed38a735a2c8c96fad35d66af71785be0958cb2e3d4a245b0"
+    },
+    {
+      "file": "images/master/product-toothbrush.webp",
+      "bytes": 32186,
+      "sha256": "2c7acb06c4fc87bb14cc5cbc6490d8aba70ede1f110d8806d0dd3ad55c529b84"
+    },
+    {
+      "file": "images/master/product-toothpaste.webp",
+      "bytes": 15830,
+      "sha256": "9e9dbb1ad085482f09c8a44f4ed42d973248e27559f9ec68e81afbe75c11661e"
+    },
+    {
+      "file": "images/web/category-personal-care.webp",
+      "bytes": 25420,
+      "sha256": "f8cc02c1f9b5d8c8fa09254d1afdfea5c87bd99330f0ea89f3baa426717dfddc"
+    },
+    {
+      "file": "images/web/collection-counter.webp",
+      "bytes": 34710,
+      "sha256": "b1b7fd1f4d960591707466940b164977b445ed5d06ca92b3e1bc4101a8ccd51b"
+    },
+    {
+      "file": "images/web/delivery-handover.webp",
+      "bytes": 54120,
+      "sha256": "24151e7e8eab88866cd736cd5a37183481f6487dea73ec11a4e0ef99f49d01f8"
+    },
+    {
+      "file": "images/web/delivery-hero-desktop.webp",
+      "bytes": 60612,
+      "sha256": "a8427448e4927ea7431c4e1443a84558bafaee3d8a4cc3b043cd9ca06521378c"
+    },
+    {
+      "file": "images/web/delivery-hero-mobile.webp",
+      "bytes": 111250,
+      "sha256": "6971cb9f2983710b646f50ffc791cba16a6a7923e3653f1220020cad9dfa1701"
+    },
+    {
+      "file": "images/web/home-hero-desktop.webp",
+      "bytes": 26066,
+      "sha256": "1c29755bb139f464668480fc5be859d6a5ea49b93fe5477c570d145ee6ee93f3"
+    },
+    {
+      "file": "images/web/home-hero-mobile.webp",
+      "bytes": 40172,
+      "sha256": "9281ebefecb3d3b0b81ded5468b11a95b32e1c0996352cba5612f34cfd1a42c1"
+    },
+    {
+      "file": "images/web/pharmacist-conversation.webp",
+      "bytes": 44154,
+      "sha256": "eb077987ad7a93e87440a2980fb12149ebb3bbc22395e05c35211959b35e0bdf"
+    },
+    {
+      "file": "images/web/product-first-aid-pouch.webp",
+      "bytes": 47354,
+      "sha256": "5f5b9aca762a7b18c1c6ad2892b264f94e6c071c6e975d0d5e55cc3be7839e26"
+    },
+    {
+      "file": "images/web/product-handwash.webp",
+      "bytes": 9632,
+      "sha256": "885270b41ef9168e507e067e2c5ec852198b9369421b4bc56f24daa1e122bc04"
+    },
+    {
+      "file": "images/web/product-lotion.webp",
+      "bytes": 4162,
+      "sha256": "d503672a53d8351c319e9272944015164bd6dbcc9e3b4d3ae509c1f9ccd795f5"
+    },
+    {
+      "file": "images/web/product-soap.webp",
+      "bytes": 6138,
+      "sha256": "cc81c29a35715517b16f7318606e0c2dba416a15d6652aa3c6c8297e2730b75f"
+    },
+    {
+      "file": "images/web/product-thermometer.webp",
+      "bytes": 11444,
+      "sha256": "f6828a982050b6cc64257938a3afb1a89b13ad45bc8be92e5817f9dfbdfcfb4d"
+    },
+    {
+      "file": "images/web/product-tissues.webp",
+      "bytes": 6134,
+      "sha256": "e4f022a80c5647f51d6bef1e3bc9e23cd334b5ece1e2ec94be1e0e6bd1d37251"
+    },
+    {
+      "file": "images/web/product-toothbrush.webp",
+      "bytes": 10922,
+      "sha256": "848a7fb248d9dc0027a422a7bf3c1d5b7175be6137e5424c496524ba7b192f31"
+    },
+    {
+      "file": "images/web/product-toothpaste.webp",
+      "bytes": 5592,
+      "sha256": "9dee82c9408d7c4a7b48836f62b45d71214dc044a95131c3879685fe74f2d82f"
+    },
+    {
+      "file": "samples/prescription-process-demo.svg",
+      "bytes": 1300,
+      "sha256": "d21c9f4be1f58488d058fb3fbd7c10919039a8e2d71b185fb59ab9b9c4c2a337"
+    },
+    {
+      "file": "social/social-delivery-1200x630.jpg",
+      "bytes": 112646,
+      "sha256": "7b31cd80109e53e5f8e506129ccf85ff92bb36614641fc5f224a9aad02f80237"
+    },
+    {
+      "file": "social/social-home-1200x630.jpg",
+      "bytes": 83497,
+      "sha256": "2a811dec10f57e2209fd13de97eed0327dbb147286b94899171bbe5d2a7969f4"
+    },
+    {
+      "file": "states/demo-complete.svg",
+      "bytes": 444,
+      "sha256": "728a9681de96e4b41f038805496029e250f91a8baa13e355aed76f06616f98dc"
+    },
+    {
+      "file": "states/empty-basket.svg",
+      "bytes": 429,
+      "sha256": "444d52f9837ae9e3e7491af7bf2f1c68bcd96ca56715398607d82d8e0f4694a3"
+    },
+    {
+      "file": "states/no-results.svg",
+      "bytes": 313,
+      "sha256": "c13325a1eb3bd173c8b9f03e00a69ec2cdb1f39840e75ecb3a06f4871d4debc5"
+    }
+  ]
+}

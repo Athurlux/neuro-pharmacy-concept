@@ -1,0 +1,8 @@
+{
+  "currency": "UGX",
+  "deliveryFeeDemo": 5000,
+  "collectionFeeDemo": 0,
+  "deliveryCoverage": "Demonstration only. No actual coverage, dispatch availability or arrival estimate is promised.",
+  "confirmation": "Demo complete. No order was placed, no payment was taken and no items were reserved.",
+  "medicinePolicy": "Medicine availability enquiries remain separate from the priced demo basket. No automatic approval or substitutions."
+}

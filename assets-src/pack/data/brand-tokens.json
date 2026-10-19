@@ -1,0 +1,22 @@
+{
+  "colors": {
+    "teal": "#07595A",
+    "mint": "#DCEFE6",
+    "white": "#F6F8F3",
+    "ink": "#182D2D",
+    "muted": "#526B66",
+    "line": "#D9E4DD"
+  },
+  "fonts": {
+    "headings": "Manrope or DM Sans",
+    "body": "Inter or DM Sans",
+    "filesIncluded": false
+  },
+  "logoStatus": "Proposed concept branding, not the verified official identity. Brain/leaf symbols in generated scenery are incidental, noncanonical concept marks.",
+  "motion": {
+    "hero": "Short live-text entrance, no forced loader",
+    "delivery": "Gentle photo reveal; do not move static motorcycle wheels or fake video",
+    "cards": "Small hover/focus response; accessible add-to-basket feedback",
+    "reducedMotion": "Static visible content; no required animation"
+  }
+}

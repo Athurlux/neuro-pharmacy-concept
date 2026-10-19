@@ -1,0 +1,58 @@
+<!doctype html>
+<html lang="en-UG">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Neuro Pharmacy (independent concept) · Your neighbourhood pharmacy</title>
+    <meta name="description" content="An independent website concept for Neuro Pharmacy: find a branch, ask about an item, and try a demo shop with delivery or collection. Not the official website; forms send nothing." />
+    <meta name="robots" content="noindex, nofollow" />
+    <meta name="theme-color" content="#F6F8F3" />
+    <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+    <link rel="icon" href="/favicon-192.png" type="image/png" sizes="192x192" />
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content="Neuro Pharmacy, independent website concept" />
+    <meta property="og:title" content="Your neighbourhood pharmacy, a clearer way to connect (independent concept)" />
+    <meta property="og:description" content="An independent website concept for Neuro Pharmacy by Arthur Kitandwe. Find a branch, ask about an item and try the demo shop. Not the official website." />
+    <meta property="og:url" content="%VITE_SITE_URL%/" />
+    <meta property="og:image" content="%VITE_SITE_URL%/social/social-home-1200x630.jpg" />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+    <meta property="og:image:alt" content="Neuro Pharmacy website concept preview with a pharmacist at a bright counter" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Your neighbourhood pharmacy, a clearer way to connect (independent concept)" />
+    <meta name="twitter:description" content="An independent website concept for Neuro Pharmacy. Demo journeys only; not the official website." />
+    <meta name="twitter:image" content="%VITE_SITE_URL%/social/social-home-1200x630.jpg" />
+    <script>
+      // Preload only the hero this route and device will show, and hold the headline lines
+      // until the entrance timeline starts. The timer reveals them if it never does.
+      // Buttons, links and form controls are never hidden.
+      (function () {
+        var heroes = {
+          '/': [['(min-width: 768px)', '/images/home-hero-desktop-768.webp 768w, /images/home-hero-desktop-1536.webp 1536w', '100vw'],
+                ['(max-width: 767px)', '/images/home-hero-mobile-480.webp 480w, /images/home-hero-mobile-800.webp 800w, /images/home-hero-mobile-1024.webp 1024w', '100vw']],
+          '/delivery': [['(min-width: 900px)', '/images/delivery-hero-desktop-768.webp 768w, /images/delivery-hero-desktop-1536.webp 1536w', '58vw'],
+                        ['(max-width: 899px)', '/images/delivery-hero-mobile-480.webp 480w, /images/delivery-hero-mobile-800.webp 800w, /images/delivery-hero-mobile-1024.webp 1024w', '100vw']]
+        }
+        var path = location.pathname.replace(/\/$/, '') || '/'
+        var hero = heroes[path]
+        if (!hero) return
+        hero.forEach(function (item) {
+          var link = document.createElement('link')
+          link.rel = 'preload'; link.as = 'image'; link.media = item[0]
+          link.setAttribute('imagesrcset', item[1]); link.setAttribute('imagesizes', item[2]); link.setAttribute('fetchpriority', 'high')
+          document.head.appendChild(link)
+        })
+        if (!matchMedia('(prefers-reduced-motion: reduce)').matches) {
+          document.documentElement.classList.add('hero-pending')
+          setTimeout(function () { document.documentElement.classList.remove('hero-pending') }, 2500)
+        }
+      })()
+    </script>
+  </head>
+  <body>
+    <div id="root"></div>
+    <noscript><p style="padding:24px;font-family:sans-serif">This Neuro Pharmacy website concept is interactive and needs JavaScript. It is an independent proposal, not the pharmacy’s official website.</p></noscript>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>

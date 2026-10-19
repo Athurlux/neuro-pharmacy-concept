@@ -1,0 +1,102 @@
+{
+  "currency": "UGX",
+  "policy": "All items, prices and images are fictional demonstration data, not Neuro stock or offers. No ingredients, pack sizes, efficacy or device accuracy claims are established.",
+  "items": [
+    {
+      "id": "product-lotion",
+      "name": "Body lotion",
+      "category": "personal-care",
+      "demoPrice": 18000,
+      "unit": "item",
+      "image": "images/master/product-lotion.webp",
+      "thumbnail": "images/web/product-lotion.webp",
+      "demo": true,
+      "stock": null,
+      "brand": null
+    },
+    {
+      "id": "product-handwash",
+      "name": "Handwash",
+      "category": "personal-care",
+      "demoPrice": 12000,
+      "unit": "item",
+      "image": "images/master/product-handwash.webp",
+      "thumbnail": "images/web/product-handwash.webp",
+      "demo": true,
+      "stock": null,
+      "brand": null
+    },
+    {
+      "id": "product-soap",
+      "name": "Soap bar",
+      "category": "personal-care",
+      "demoPrice": 5000,
+      "unit": "item",
+      "image": "images/master/product-soap.webp",
+      "thumbnail": "images/web/product-soap.webp",
+      "demo": true,
+      "stock": null,
+      "brand": null
+    },
+    {
+      "id": "product-toothbrush",
+      "name": "Manual toothbrush",
+      "category": "oral-care",
+      "demoPrice": 7000,
+      "unit": "item",
+      "image": "images/master/product-toothbrush.webp",
+      "thumbnail": "images/web/product-toothbrush.webp",
+      "demo": true,
+      "stock": null,
+      "brand": null
+    },
+    {
+      "id": "product-toothpaste",
+      "name": "Toothpaste",
+      "category": "oral-care",
+      "demoPrice": 10000,
+      "unit": "item",
+      "image": "images/master/product-toothpaste.webp",
+      "thumbnail": "images/web/product-toothpaste.webp",
+      "demo": true,
+      "stock": null,
+      "brand": null
+    },
+    {
+      "id": "product-thermometer",
+      "name": "Digital thermometer",
+      "category": "home-health",
+      "demoPrice": 25000,
+      "unit": "item",
+      "image": "images/master/product-thermometer.webp",
+      "thumbnail": "images/web/product-thermometer.webp",
+      "demo": true,
+      "stock": null,
+      "brand": null
+    },
+    {
+      "id": "product-first-aid-pouch",
+      "name": "First aid storage pouch \u2014 empty",
+      "category": "home-health",
+      "demoPrice": 18000,
+      "unit": "item",
+      "image": "images/master/product-first-aid-pouch.webp",
+      "thumbnail": "images/web/product-first-aid-pouch.webp",
+      "demo": true,
+      "stock": null,
+      "brand": null
+    },
+    {
+      "id": "product-tissues",
+      "name": "Pocket tissues",
+      "category": "daily-essentials",
+      "demoPrice": 3000,
+      "unit": "item",
+      "image": "images/master/product-tissues.webp",
+      "thumbnail": "images/web/product-tissues.webp",
+      "demo": true,
+      "stock": null,
+      "brand": null
+    }
+  ]
+}
